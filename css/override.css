@@ -3,6 +3,11 @@ hr {
   margin-bottom: 20px;
 }
 
+body {
+  background: cornsilk;
+  color: black;
+}
+
 /* Post navigation links */
 .post_navi {
   display: flex;
