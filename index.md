@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Hello, I'm Altuğ, and I really like
+airplanes, programming and playing guitar.
+I also like other stuff but I can't think
+of all of them right now.
